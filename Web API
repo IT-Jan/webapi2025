@@ -1,7 +1,0 @@
-npx tsc -init
-npm i koa koa-bodyparser koa-json koa-logger koa-router
-npm i @types/koa
-npm i @types/koa-bodyparser
-npm i @types/koa-json
-npm i @types/koa-logger
-npm i @types/koa-router
