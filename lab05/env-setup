@@ -4,4 +4,4 @@ npm i @types/koa
 npm i @types/koa-bodyparser
 npm i @types/koa-json
 npm i @types/koa-logger
-npm i @types/koa-router@11.0.2
+npm i koa-router@11.0.2
